@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Sample01 from './component/sample01'
-import Sample02 from './component/sample02'
-import Sample03 from './component/sample03'
-import Sample04 from './component/sample04'
+import Sample01 from './component/effect01'
+import Sample02 from './component/effect02'
+import Sample03 from './component/effect03'
+
 
 
 function Com(){
@@ -12,7 +12,6 @@ return (
     <Sample01 />
     <Sample02 />
     <Sample03 />
-    <Sample04 />
   </div>
 )
 }
